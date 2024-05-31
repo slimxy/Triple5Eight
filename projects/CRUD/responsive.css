@@ -1,0 +1,34 @@
+@media screen and (max-width:580px) {
+    input{
+        font-size: 15px;
+    }
+    
+}
+
+@media screen and (max-width:475px) {
+    
+    .links{display: none    ;}
+    button{
+        width: 80px;
+        font-size: 14px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:385px) {
+    
+    .option{text-align:  center;}
+    
+}
+@media screen and (max-width:300px) {
+    
+    input{
+        font-size: 12px;
+    }
+    button{
+        height: 33px;
+    }
+    .option{
+        font-size: 12px;
+    }
+}
